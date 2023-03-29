@@ -39,6 +39,22 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Volcano Ramen",
+      "restaurant": "Rooz's",
+      "image": "https://125.jinramen.com/wp-content/uploads/2020/03/20180810_jinramen_029-scaled-e1584379442879-600x309.jpg",
+      "rating": "10",
+      "comment": "Amazing!",
+      "id": 6
+    },
+    {
+      "name": "Spicy Miso",
+      "restaurant": "Jessica's",
+      "image": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Styled1.jpg",
+      "rating": "8",
+      "comment": "Pretty Good!",
+      "id": 7
     }
   ]
 }
